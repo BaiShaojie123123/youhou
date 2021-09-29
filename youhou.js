@@ -16,7 +16,7 @@
 // @exclude       https://newassets.hcaptcha.com/*
 // @require       https://code.jquery.com/jquery-3.6.0.min.js
 
-// @updateURL     https://github.com/BaiShaojie123123/youhou/youhou.js
+// @updateURL     https://github.com/BaiShaojie123123/youhou/blob/main/youhou.js
 
 // @icon         https://www.google.com/s2/favicons?domain=hyue.com
 // @grant        GM_openInTab
