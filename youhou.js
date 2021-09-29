@@ -33,7 +33,7 @@
 // ==/UserScript==
 // @run-at document-end
 (function() {
-        var a=2;
+       
 
 })();
 
